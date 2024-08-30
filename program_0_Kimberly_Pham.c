@@ -1,5 +1,5 @@
 //********************************************************
-// program-0.c
+// program0.c
 // Author: FirstName LastName
 // Class: COP 3223, Professor Parra
 // Purpose: This program prints a specific message to the
